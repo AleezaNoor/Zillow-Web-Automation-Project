@@ -1,7 +1,7 @@
 # Zillow-Web-Automation-Project
 
 
-This project is a Python script that automates the process of collecting rental property data from Zillow in a specific location and performing analysis on the collected data. It utilizes web scraping techniques with Selenium to extract property information such as prices, addresses, and links.
+This project is a Python script that automates data collection from Zillow, a leading online real estate marketplace. Using web scraping with Selenium, it extracts rental property details like prices, addresses, and links. The script enables efficient analysis of the collected data for further insights and potential decision-making.
 
 ## Features
 
